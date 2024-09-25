@@ -1,4 +1,4 @@
-#Telecom Churn Analysis#
+## Telecom Churn Analysis
 This repository contains an exploratory data analysis (EDA) report on customer churn for a telecom company. Customer churn, which refers to the discontinuation of services by customers, has a significant impact on a company's revenue. The goal of this analysis is to identify key patterns and factors contributing to customer churn, helping to inform potential retention strategies.
 
 # Dataset Overview
