@@ -38,9 +38,6 @@ We cleaned up the data and prepared it for analysis:
 ### 📊 The Full Report Awaits:
 For the detailed analysis and all the juicy insights, head over to the full report:
 
-<iframe src="https://raw.githubusercontent.com/Deepanshu-analyst/Telecom-Chrun-Analysis/main/Final%20Report%20on%20Telecom%20Churn%20Analysis.pdf" width="100%" height="600px"></iframe>
-
-
-
+<iframe src="https://raw.githubusercontent.com/Deepanshu-analyst/Telecom-Chrun-Analysis/main/Final%20Report%20on%20Telecom%20Churn%20Analysis.html" width="100%" height="600px"></iframe>
 
 👉 **[Click here to access the final report 📈](https://github.com/Deepanshu-analyst/Telecom-Chrun-Analysis)**
