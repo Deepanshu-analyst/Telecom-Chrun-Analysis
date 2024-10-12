@@ -9,7 +9,7 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 20px;
-            background-image: url('https://i.imgur.com/B5vS1FL.jpg'); /* Replace with your valid image URL */
+            background-image: url('https://raw.githubusercontent.com/Deepanshu-analyst/Telecom-Chrun-Analysis/main/R.jpeg'); /* Raw image URL */
             background-size: cover; /* Ensure the image covers the entire background */
             background-repeat: no-repeat; /* Prevent the image from repeating */
             background-position: center; /* Center the image */
