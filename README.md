@@ -9,14 +9,11 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 20px;
-            background-image: url('https://raw.githubusercontent.com/Deepanshu-analyst/Telecom-Chrun-Analysis/main/R.jpeg'); /* Raw image URL */
-            background-size: cover; /* Ensure the image covers the entire background */
-            background-repeat: no-repeat; /* Prevent the image from repeating */
-            background-position: center; /* Center the image */
-            color: #fff; /* Change text color for better readability on a background image */
+            background: linear-gradient(135deg, #e0f7fa, #ffffff); /* Light gradient from teal to white */
+            color: #333; /* Dark text color for readability */
         }
         h1, h2 {
-            color: #ffffff; /* White color for headings */
+            color: #2e6ca8; /* Attractive blue color for headings */
             text-align: center;
         }
         h3 {
@@ -39,7 +36,7 @@
         iframe {
             display: block;
             margin: 20px auto; /* Center the iframe */
-            border: 2px solid #ffffff; /* Border for the iframe */
+            border: 2px solid #2e6ca8; /* Border for the iframe */
             border-radius: 5px; /* Rounded corners */
         }
         .recommendations {
