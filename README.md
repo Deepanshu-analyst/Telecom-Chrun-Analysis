@@ -9,11 +9,14 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 20px;
-            background-color: #f4f4f4; /* Light background color */
-            color: #333; /* Dark text color */
+            background-image: url('https://example.com/path/to/your/image.jp'); /* Replace with your image URL */
+            background-size: cover; /* Ensure the image covers the entire background */
+            background-repeat: no-repeat; /* Prevent the image from repeating */
+            background-position: center; /* Center the image */
+            color: #fff; /* Change text color for better readability on a background image */
         }
         h1, h2 {
-            color: #2e6ca8; /* Attractive blue color for headings */
+            color: #ffffff; /* White color for headings */
             text-align: center;
         }
         h3 {
@@ -24,23 +27,23 @@
             padding: 0; /* Remove default padding */
         }
         li {
-            background: #e2e2e2; /* Light gray background for list items */
+            background: rgba(226, 226, 226, 0.8); /* Light gray background with some transparency */
             margin: 10px 0; /* Space between items */
             padding: 10px; /* Padding inside items */
             border-radius: 5px; /* Rounded corners */
             transition: background 0.3s; /* Smooth transition */
         }
         li:hover {
-            background: #d9d9d9; /* Darker gray on hover */
+            background: rgba(217, 217, 217, 0.9); /* Darker gray on hover */
         }
         iframe {
             display: block;
             margin: 20px auto; /* Center the iframe */
-            border: 2px solid #2e6ca8; /* Border for the iframe */
+            border: 2px solid #ffffff; /* Border for the iframe */
             border-radius: 5px; /* Rounded corners */
         }
         .recommendations {
-            background-color: #d0f0c0; /* Light green background for recommendations */
+            background-color: rgba(208, 240, 192, 0.9); /* Light green background for recommendations */
             padding: 15px;
             border-radius: 5px;
         }
